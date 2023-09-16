@@ -33,3 +33,5 @@ Tenho 20 anos sou formando como técnico de informática pelo IFPR - Campus Ivai
 ## 📊 Github Status
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkSan-cloud&layout=compact"><p>
+
+![:name](https://count.getloli.com/get/@:DarkSan-cloud?theme=rule34)
