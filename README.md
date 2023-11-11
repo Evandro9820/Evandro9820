@@ -1,18 +1,22 @@
-# Hi there 👋, My name is Evandro
+# Olá 👋, meu nome é Evandro
 
 <img width="100%" src="https://github.com/DarkSan-cloud/DarkSan-cloud/blob/0b1d1cd561305f9ae2a071b1e1449bc17c6438d3/github-header-image.png" alt="my banner">
 
 21 anos, formando pelo IFPR-CAMPUS IVAIPORÂ como técnico de informática.
-Atualmente cursando Bacherelado em Sistemas de Informação.
+<br>Atualmente cursando Bacherelado em Sistemas de Informação.
+
+
+
 
 <div aling ="left">
 <h2>💫 Um pouco sobre mim</h2>
+<img align="left" height="150" src="https://i.pinimg.com/originals/93/a1/66/93a166e1b57a6d3a3adb1b0de3e59cea.gif" />
 <p>🌱 No momento estou aprendendo Javascript, HTML e PHP</p>
 <p>💬 Ask me about Linux</p>
 <p>📫 How to reach me? evancavaraujo3@gmail.com</p> 
+<p>🎮 Umas das coisas que mais gosto de fazer é jogar</p>
 </div>
-
-## Curtindo 
+<h2>Curtindo</h2> 
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31yduq3xlogom7qbhf6oq5nzxgdq&width=1000)
 
